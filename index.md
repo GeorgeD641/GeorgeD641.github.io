@@ -1,5 +1,5 @@
 ## Hello there
-[page1](/page.md)
+|[Page 1]|(/master.html)
 
 On my GitHub, you will see Top 10 Dog Breeds.
 
