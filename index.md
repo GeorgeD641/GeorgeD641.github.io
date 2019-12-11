@@ -1,4 +1,5 @@
 ## Hello there
+[page1](/page.md)
 
 On my GitHub, you will see Top 10 Dog Breeds.
 
