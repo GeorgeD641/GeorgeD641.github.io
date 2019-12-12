@@ -1,0 +1,26 @@
+
+.header {
+border-radius: 20px;
+background-color: #212A77;}
+
+
+.header a {
+float: center;
+color: #FFFFFF  ;
+text-align: center;
+padding: 5px;}
+
+h3 {text-align: none;
+color: #8DCBBE}
+
+h4 {text-align: center;
+color: #393736;}
+
+h5 {text-align: right;}
+
+h6 {font-style: italic;
+font-size: 15px;}
+
+body {background-color: #AFAD9F;}
+center > img {border-spacing: 100;
+  border-color: #FFFFFF;}
