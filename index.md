@@ -1,4 +1,4 @@
 ## Hello there
-|[Wonders Page]|(/wonders/wonderspage.html)
+|[Wonders Page]|(/wonders/wonderspage.htm)
 
 
