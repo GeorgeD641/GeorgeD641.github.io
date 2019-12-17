@@ -1,0 +1,45 @@
+/*
+From here to next note: these change my text to different styles
+*/
+h5 {color: white;
+margin: 20pt;
+text-align: left;
+font-size: 30;}
+
+h4 {font-family: cursive;
+color: none;
+background-color: gray;}
+
+
+h3 {color: rgb(255, 255, 255);
+background-color: none;
+margin: 5pt;
+text-align: left;
+font-size: 15pt;
+font-family: Candara}
+
+h2 {color: white;
+background-color: none;
+margin: 20pt;
+text-align: left;
+font-size: 15pt;
+flex-flow: row;}
+/*
+these control the colour and flex of my website body as well as my div
+*/
+
+body {background-color: #96BFB6;
+background-image: url("Baking_tools.jpg");}
+
+center > img {border-spacing: 100;
+border-color: #FFFFFF;}
+
+div.chocolate{
+  display: flex;
+  flex-flow: right;
+  background-color: grey;
+  
+}
+div.instructions{
+background-color: grey;
+}
