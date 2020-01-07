@@ -1,5 +1,5 @@
 ---
 title:
 description: 
-layout: master
+layout: 
 ---
