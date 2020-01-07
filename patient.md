@@ -1,5 +1,7 @@
+#Patient Logs
+
 ---
-title:
-description: 
-layout: 
+Name:
+Gender: 
+Past Medical
 ---
