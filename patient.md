@@ -1,7 +1,7 @@
 #Patient Logs
 
 ---
-Name:
-Gender: 
-Past Medical
+Name: John Doe 
+Gender: M
+Past Medical: Surgery
 ---
