@@ -1,4 +1,4 @@
 ## Hello there
-|[Wonders Page](/wonders/wonderspage.htm)||[Recipe](/recipe/lavacakerecipe.htm)||[Bakery Clicker](/clicker/clicker.html)|
+|[Wonders Page](/wonders/wonderspage.htm)||[Recipe](/recipe/lavacakerecipe.htm)||[Bakery Clicker](/clicker/clicker.html)||[Patient Logs](/medical/patientlogs.html)|
 
 
